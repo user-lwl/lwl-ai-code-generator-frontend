@@ -2,14 +2,15 @@
   <a-layout-footer class="footer">
     <div class="footer-content">
       <p class="copyright">
+        Lwl Ai Code Generator©2026 by
         <a
           href="https://www.user-lwl.cn"
           target="_blank"
           rel="noopener noreferrer"
           class="author-link"
         >
-          Ai Code Generator©2026 by user-lwl
-        </a>
+          user-lwl
+        </a> | <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">鲁ICP备2024080109号-3</a>
       </p>
     </div>
   </a-layout-footer>
